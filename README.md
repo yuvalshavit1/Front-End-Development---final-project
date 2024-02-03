@@ -1,4 +1,5 @@
 Cost-Manager project:
+
 cost manager app using HTML, CSS, JavaScript and REACT
 
 Data saved in Local storage
